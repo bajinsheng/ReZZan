@@ -3,5 +3,4 @@ clang++wrapper
 *.so
 *.o
 *.a
-AFL/afl-*
 AFL/as
